@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C ,Python and Dart.
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me:
-- -> LinkedIn: 
+- -> LinkedIn: https://www.linkedin.com/in/rahul-chandrakar-11361a2ba/
 - ->GitHub: https://github.com/RaOwlgit
