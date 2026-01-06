@@ -1,4 +1,4 @@
-- 👋 Hi,I'm Rahul Chandrakar, a B.Tech student at Rungta College. I have a strong passion for technology and programming, and I'm continuously learning and improving my skills.
+- 👋 Hi,I'm Rahul Chandrakar.
 - 👀 I’m interested in 3D modeling in Blender and I also love to create intrusting stuff using Ardiuno.
 - 🌱 I’m currently learning C ,Python and Dart.
 - 💞️ I’m looking to collaborate on
